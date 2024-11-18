@@ -159,3 +159,14 @@ h3 {
     border: 2px solid #E5E7EB;
     width: 120px;
 }
+
+/* FOOTER */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
