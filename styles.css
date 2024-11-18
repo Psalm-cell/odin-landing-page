@@ -125,3 +125,37 @@ h2 {
     text-align: right;
     margin-top: 0;
 }
+
+/* SECTION-4 */
+.head-4 {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .container-2 {
+    background-color: #3882F6;
+    height: 140px;
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 12px;
+ }
+.modal{
+    display: flex;
+    flex-direction: column;
+}
+h3 {
+    color: #E5E7EB;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+.modal > p {
+    font-size: 20px;
+}
+.sign-up {
+    font-size: 16px;
+    border: 2px solid #E5E7EB;
+    width: 120px;
+}
